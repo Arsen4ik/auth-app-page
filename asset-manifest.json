@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4fccb57.css",
-    "main.js": "/static/js/main.47edda0f.js",
-    "static/media/xmark-solid.svg": "/static/media/xmark-solid.df9f3cc010df45be601dba693c5e5923.svg",
-    "index.html": "/index.html",
-    "main.d4fccb57.css.map": "/static/css/main.d4fccb57.css.map",
-    "main.47edda0f.js.map": "/static/js/main.47edda0f.js.map"
+    "main.css": "/auth-app-page/static/css/main.d4fccb57.css",
+    "main.js": "/auth-app-page/static/js/main.7d42ec7e.js",
+    "static/media/xmark-solid.svg": "/auth-app-page/static/media/xmark-solid.df9f3cc010df45be601dba693c5e5923.svg",
+    "index.html": "/auth-app-page/index.html",
+    "main.d4fccb57.css.map": "/auth-app-page/static/css/main.d4fccb57.css.map",
+    "main.7d42ec7e.js.map": "/auth-app-page/static/js/main.7d42ec7e.js.map"
   },
   "entrypoints": [
     "static/css/main.d4fccb57.css",
-    "static/js/main.47edda0f.js"
+    "static/js/main.7d42ec7e.js"
   ]
 }
